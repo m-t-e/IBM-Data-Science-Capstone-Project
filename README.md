@@ -2,4 +2,6 @@
 
 This repository includes all pyhton notebooks and relevant files used/created in the IBM Data Science Capstone Project.
 
-All course material are solved by <i> Metehan KILIÇ
+
+All of the course materials in this repo are completed by 
+<i> Metehan KILIÇ
